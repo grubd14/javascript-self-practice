@@ -1,20 +1,20 @@
-// let name = "John";
-// let admin = name;
+let name = "John";
+let admin = name;
 
-// alert(admin);
+alert(admin);
 
-// let ourPlanet = "Earth";
-// let currentUser = "John";
+let ourPlanet = "Earth";
+let currentUser = "John";
 
 
 
-// let  x = 25;
-// let y = x ** 5;
-// //or 
+let  x = 25;
+let y = x ** 5;
+//or 
 
-// let a = 25;
-// let b = Math.pow(a, 5);
-//
+let a = 25;
+let b = Math.pow(a, 5);
+
 /* console.log((23+ 34 + 97)/ 79); */
 
 // let a = 10;

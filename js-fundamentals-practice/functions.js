@@ -22,13 +22,13 @@ ask("Do you agree?", showOk, showCancel);
 
 //Arrow functions 
 
-// let func = (arg1. arg2, argN) => expression;
-// //is the shorter version of 
+let func = (arg1. arg2, argN) => expression;
+//is the shorter version of 
 
-// let func2 = function(arg1, arg2, argN) {
-//   return expression;
-// };
-//
+let func2 = function(arg1, arg2, argN) {
+  return expression;
+};
+
 
 //example 
 let sum = (a, b) => a +b;

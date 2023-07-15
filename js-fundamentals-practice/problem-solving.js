@@ -1,19 +1,19 @@
-// function fizzbuzz(num1, num2) {
-//   let result = "";
-//   for (let i = 1; i < num2; i++) {
-//     return result[i].push("");
-//     
-//   }
-// }
+function fizzbuzz(num1, num2) {
+  let result = "";
+  for (let i = 1; i < num2; i++) {
+    return result[i].push("");
+    
+  }
+}
 
-// console.log(fizzbuzz(1, 4));
-//
-// function fizzbuzz(num) {
-//   for(let i = 1; i < num; num++) {
+console.log(fizzbuzz(1, 4));
 
-//   }
-// }
-//
+function fizzbuzz(num) {
+  for(let i = 1; i < num; num++) {
+
+  }
+}
+
 
 let answer = parseInt(prompt("Please enter the number")); 
 

@@ -1,12 +1,12 @@
-// function addSeven(add) {
-//   let result = add + 7;
-//   return result;
-// }
+function addSeven(add) {
+  let result = add + 7;
+  return result;
+}
 
-// function multiplyTwoNumbers(num1, num2) {
-//   let result = num1 * num2;
-//   return result;
-// }
+function multiplyTwoNumbers(num1, num2) {
+  let result = num1 * num2;
+  return result;
+}
 
 
 function capitalize(string) {

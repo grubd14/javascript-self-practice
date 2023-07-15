@@ -1,34 +1,34 @@
-// const person = {
-//   name : ["Bob", "Smith"],
-//   age : 32,
-//   bio: function () {
-//     console.log(`${this.name[0]} ${this.name[1]} is ${this.age} years old.`);
+const person = {
+  name : ["Bob", "Smith"],
+  age : 32,
+  bio: function () {
+    console.log(`${this.name[0]} ${this.name[1]} is ${this.age} years old.`);
 
-//   },
-//   introduceSelf: function () {
-//     console.log(`Hi! I'm ${this.name[0]}.`);
-//   },
-// };
+  },
+  introduceSelf: function () {
+    console.log(`Hi! I'm ${this.name[0]}.`);
+  },
+};
 
-// const dogs = {
-//   name: ["Tommy", "Bin Laden"],
-//   age: 8,
-//   properties () {
-//     console.log(`${this.name[0]} ${this.name[1]} is ${this.age} years old.`);
-//     
-//   },
-//   introduceSelf() {
-//     console.log(`Hi! I'm ${this.name[0]}.`);
-//   }
-// };
-//
-// const person = {
-//   name: {
-//     first: "Bob",
-//     last: "Smith",
-//   },
-//   age: 32,
-// };
+const dogs = {
+  name: ["Tommy", "Bin Laden"],
+  age: 8,
+  properties () {
+    console.log(`${this.name[0]} ${this.name[1]} is ${this.age} years old.`);
+    
+  },
+  introduceSelf() {
+    console.log(`Hi! I'm ${this.name[0]}.`);
+  }
+};
+
+const person = {
+  name: {
+    first: "Bob",
+    last: "Smith",
+  },
+  age: 32,
+};
 
 const myDataName = "height";
 const myDateValue = "1.75m";
